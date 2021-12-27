@@ -1,19 +1,25 @@
 # Getir Node.js Bootcamp Graduation Project
 ## Project Installation
-git clone https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-ecemaltinel.git
-Run these commands respectively ->
-npm install to install node_modules
-npm test to test the project *
-npm start to start the project 
+git clone https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-ecemaltinel.git </br>
 
-* After run test command you're supposed to see test results as below
-  Happy-path
-    √ Welcome Route -> GET / (109 ms)
-    √ Get All Records Route /records (5 ms)
-    √ Get Specific Records with proper model (3 ms)
-  Alternatives
-    √ Throw 400 when -> Get Specific Records with wrong model (1 ms)
-    √ Throw 404 when -> No such endpoint (2 ms)
+Run these commands respectively
+
+>npm install to install node_modules </br>
+>npm test to test the project  </br>
+>npm start to start the project  </br>
+
+After run test command you're supposed to see test results as below </br>
+  
+Happy-path </br>
+  
+    √ Welcome Route -> GET / (109 ms) 
+    √ Get All Records Route /records (5 ms) 
+    √ Get Specific Records with proper model (3 ms) 
+    
+Alternatives </br>
+  
+    √ Throw 400 when -> Get Specific Records with wrong model (1 ms) 
+    √ Throw 404 when -> No such endpoint (2 ms) 
 
 ## API Endpoints and explanation
  		
@@ -68,7 +74,7 @@ npm start to start the project
 
 
 ## Worth Highlighting
-You can either download the project and test it locally or use public project link below.
+You can either download the project and test it locally or use public project link below. </br>
 https://ecem-altinel.herokuapp.com/
 
 
